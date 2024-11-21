@@ -1,5 +1,5 @@
 # GPA Prediction Based on Lifestyle Choices
-
+https://github.com/20225587/GPA-PREDICTION.git
 Welcome to the **GPA Prediction Based on Lifestyle Choices** project! Here, we explore how everyday choices—like sleep, study time, diet, exercise, and social activities—might be shaping students' academic performance. By predicting GPA based on lifestyle factors, we hope to provide data-driven insights for students and school management to help foster a healthier, balanced approach to academic life.
 
 ## Table of Contents
